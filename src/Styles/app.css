@@ -1,0 +1,15 @@
+li{
+    display: inline;
+}
+.random{
+    padding-left: 10%;
+    padding-right: 5%;
+    padding-bottom: 10%;
+    padding-top: 3%;
+}
+a:hover{
+    background-color: white;
+}
+a{
+    text-decoration-color: black;
+}
